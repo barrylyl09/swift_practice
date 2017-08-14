@@ -43,6 +43,7 @@
 		24C4B0A21F3B210D006A95E2 /* 22-类的析构函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22-类的析构函数.playground"; sourceTree = "<group>"; };
 		24C4B0A31F3C1762006A95E2 /* TestExTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestExTableViewController.swift; sourceTree = "<group>"; };
 		24C4B0A51F3C31C1006A95E2 /* 23-类的属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23-类的属性.playground"; sourceTree = "<group>"; };
+		24C4B0A61F415BDD006A95E2 /* 24-监听属性改变.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24-监听属性改变.playground"; sourceTree = "<group>"; };
 		24DBF03F1F36FDA300771CCE /* 11-函数的使用细节(外部参数和内部参数).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11-函数的使用细节(外部参数和内部参数).playground"; sourceTree = "<group>"; };
 		24DBF0401F37037200771CCE /* 12-函数使用细节(默认参数).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12-函数使用细节(默认参数).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		24DBF0411F37046100771CCE /* 13-函数使用细节(可变参数).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-函数使用细节(可变参数).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -117,6 +118,7 @@
 				24C4B0A21F3B210D006A95E2 /* 22-类的析构函数.playground */,
 				24C4B0A31F3C1762006A95E2 /* TestExTableViewController.swift */,
 				24C4B0A51F3C31C1006A95E2 /* 23-类的属性.playground */,
+				24C4B0A61F415BDD006A95E2 /* 24-监听属性改变.playground */,
 			);
 			path = Code;
 			sourceTree = "<group>";

@@ -79,7 +79,7 @@ class Stu{
     
     //类型方法 使用 static 修饰 ，还有 class 修饰的
     //1.实例方法
-    func test() {
+    static func testStaic() {
         print("当前有 \(Stu.personCount) 个实例对象")
     }
     
